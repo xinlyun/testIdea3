@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bccs-api-3.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaiduPush/dist/bccs-api-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
