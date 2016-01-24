@@ -1,10 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a1db3cb-a6db-47f3-b123-3e7287383574" name="Default" comment="" />
+    <list default="true" id="1cb88b9b-761d-4944-a54a-85bd7de0853f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/testIdea3.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/CollectionRestrict.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/CollectionRestrict.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/HttpParamKeyName.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/HttpParamKeyName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/HttpPathKeyName.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/HttpPathKeyName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/JSonPath.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/JSonPath.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/R.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/RangeRestrict.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/RangeRestrict.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/RegexRestrict.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/annotation/RegexRestrict.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/callback/YunHttpObservable.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/callback/YunHttpObservable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/callback/YunHttpObserver.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/callback/YunHttpObserver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/callback/YunLogHttpCallBack.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/callback/YunLogHttpCallBack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/config/HttpConfigure.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/config/HttpConfigure.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/event/YunHttpEvent.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/event/YunHttpEvent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/exception/YunHttpClientException.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/exception/YunHttpClientException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/CollectionRestrictFilter.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/CollectionRestrictFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/HttpParamKeyNameFilter.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/HttpParamKeyNameFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/HttpPathKeyNameFilter.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/HttpPathKeyNameFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/IFieldFilter.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/IFieldFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/RangeRestrictFilter.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/RangeRestrictFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/RegexRestrictFilter.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/filter/RegexRestrictFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/httpclient/YunHttpClient$1.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/httpclient/YunHttpClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/httpclient/YunHttpClient$2.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/httpclient/YunHttpClient$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/httpclient/YunHttpClient.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/httpclient/YunHttpClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/JSONParser.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/JSONParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/JSONParserConstants.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/JSONParserConstants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/JSONParserTokenManager.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/JSONParserTokenManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/JsonParserDomTree.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/JsonParserDomTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/ParseException.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/ParseException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/SimpleCharStream.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/SimpleCharStream.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/Token.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/Token.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/TokenMgrError.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/json/TokenMgrError.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/log/DefaultYunLogHandler.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/log/DefaultYunLogHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/log/NullYunLogHandler.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/log/NullYunLogHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/log/YunLogEvent.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/log/YunLogEvent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/log/YunLogHandler.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/log/YunLogHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/model/BCMSKeyPair.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/model/BCMSKeyPair.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/model/ErrorResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/model/ErrorResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/model/HttpRestResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/model/HttpRestResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/IOUtility.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/IOUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/MapObjectUtility.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/MapObjectUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/MessageDigestUtility.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/MessageDigestUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/Native2AsciiUtility.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/Native2AsciiUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/ReflectionUtility.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/ReflectionUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/StringUtility.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/StringUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/YunCommonUtility.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/core/utility/YunCommonUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/auth/PushKeyPair.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/auth/PushKeyPair.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/auth/signature/PushSignatureDigest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/auth/signature/PushSignatureDigest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPush.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPush.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPushAsync.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPushAsync.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPushAsyncClient$1.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPushAsyncClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPushAsyncClient.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPushAsyncClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPushClient.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/client/BaiduPushClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/constants/BaiduPushConstants.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/constants/BaiduPushConstants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/exception/PushClientException.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/exception/PushClientException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/exception/PushServerException.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/exception/PushServerException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/AddDevicesToTagRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/AddDevicesToTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/AddDevicesToTagResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/AddDevicesToTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/BindInfo.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/BindInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/CreateTagRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/CreateTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/CreateTagResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/CreateTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeleteDevicesFromTagRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeleteDevicesFromTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeleteDevicesFromTagResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeleteDevicesFromTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeleteTagRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeleteTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeleteTagResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeleteTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeviceInfo.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeviceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeviceStatUnit.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/DeviceStatUnit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/KeyValueForAck.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/KeyValueForAck.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/KeyValueForDevice.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/KeyValueForDevice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/KeyValueForMsg.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/KeyValueForMsg.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/KeyValueForTopic.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/KeyValueForTopic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/MsgSendInfo.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/MsgSendInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/MsgStatInfo.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/MsgStatInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/MsgStatUnit.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/MsgStatUnit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushBatchUniMsgRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushBatchUniMsgRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushBatchUniMsgResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushBatchUniMsgResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToAllRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToAllRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToAllResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToAllResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToSingleDeviceRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToSingleDeviceRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToSingleDeviceResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToSingleDeviceResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToSmartTagRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToSmartTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToSmartTagResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToSmartTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToTagRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToTagResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushMsgToTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/PushResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryDeviceNumInTagRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryDeviceNumInTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryDeviceNumInTagResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryDeviceNumInTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryMsgStatusRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryMsgStatusRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryMsgStatusResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryMsgStatusResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticDeviceRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticDeviceRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticDeviceResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticDeviceResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticMsgRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticMsgRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticMsgResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticMsgResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticTopicRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticTopicRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticTopicResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryStatisticTopicResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTagsRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTagsRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTagsResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTagsResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTimerListRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTimerListRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTimerListResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTimerListResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTimerRecordsRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTimerRecordsRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTimerRecordsResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTimerRecordsResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTopicListRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTopicListRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTopicListResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTopicListResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTopicRecordsRequest.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTopicRecordsRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTopicRecordsResponse.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/QueryTopicRecordsResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/Record.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/Record.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/TagInfo.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/TagInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/TimerResultInfo.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/TimerResultInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/TopicResultInfo.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/TopicResultInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/TopicStatUnit.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/model/TopicStatUnit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/transform/PushRestRequestChecker.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/transform/PushRestRequestChecker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/transform/PushRestRequestMapper.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/transform/PushRestRequestMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/transform/PushRestResponseJsonUnmapper.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/transform/PushRestResponseJsonUnmapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/transform/utils/TransformUtilitiy.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/com/baidu/yun/push/transform/utils/TransformUtilitiy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Connection.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Connection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/ConnectionManager$ConnectActiveMonitor.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/ConnectionManager$ConnectActiveMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/ConnectionManager.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/ConnectionManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Dao/AddDevicesToTag$1.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Dao/AddDevicesToTag$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Dao/AddDevicesToTag.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Dao/AddDevicesToTag.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Dao/AndroidPushMsgToSingleDevice$1.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Dao/AndroidPushMsgToSingleDevice$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Dao/AndroidPushMsgToSingleDevice.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Dao/AndroidPushMsgToSingleDevice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Test.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/TestClient.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/TestClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/TestServer$SimpleProcessor.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/TestServer$SimpleProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/TestServer.class" afterPath="$PROJECT_DIR$/out/artifacts/testIdea3_Web_exploded/WEB-INF/classes/test/TestServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/CollectionRestrict.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/CollectionRestrict.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/HttpParamKeyName.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/HttpParamKeyName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/HttpPathKeyName.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/HttpPathKeyName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/JSonPath.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/JSonPath.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/R.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/RangeRestrict.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/RangeRestrict.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/RegexRestrict.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/annotation/RegexRestrict.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/callback/YunHttpObservable.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/callback/YunHttpObservable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/callback/YunHttpObserver.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/callback/YunHttpObserver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/callback/YunLogHttpCallBack.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/callback/YunLogHttpCallBack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/config/HttpConfigure.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/config/HttpConfigure.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/event/YunHttpEvent.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/event/YunHttpEvent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/exception/YunHttpClientException.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/exception/YunHttpClientException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/CollectionRestrictFilter.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/CollectionRestrictFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/HttpParamKeyNameFilter.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/HttpParamKeyNameFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/HttpPathKeyNameFilter.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/HttpPathKeyNameFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/IFieldFilter.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/IFieldFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/RangeRestrictFilter.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/RangeRestrictFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/RegexRestrictFilter.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/filter/RegexRestrictFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/httpclient/YunHttpClient$1.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/httpclient/YunHttpClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/httpclient/YunHttpClient$2.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/httpclient/YunHttpClient$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/httpclient/YunHttpClient.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/httpclient/YunHttpClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/JSONParser.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/JSONParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/JSONParserConstants.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/JSONParserConstants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/JSONParserTokenManager.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/JSONParserTokenManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/JsonParserDomTree.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/JsonParserDomTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/ParseException.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/ParseException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/SimpleCharStream.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/SimpleCharStream.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/Token.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/Token.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/TokenMgrError.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/json/TokenMgrError.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/log/DefaultYunLogHandler.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/log/DefaultYunLogHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/log/NullYunLogHandler.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/log/NullYunLogHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/log/YunLogEvent.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/log/YunLogEvent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/log/YunLogHandler.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/log/YunLogHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/model/BCMSKeyPair.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/model/BCMSKeyPair.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/model/ErrorResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/model/ErrorResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/model/HttpRestResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/model/HttpRestResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/IOUtility.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/IOUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/MapObjectUtility.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/MapObjectUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/MessageDigestUtility.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/MessageDigestUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/Native2AsciiUtility.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/Native2AsciiUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/ReflectionUtility.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/ReflectionUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/StringUtility.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/StringUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/YunCommonUtility.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/core/utility/YunCommonUtility.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/auth/PushKeyPair.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/auth/PushKeyPair.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/auth/signature/PushSignatureDigest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/auth/signature/PushSignatureDigest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPush.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPush.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPushAsync.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPushAsync.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPushAsyncClient$1.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPushAsyncClient$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPushAsyncClient.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPushAsyncClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPushClient.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/client/BaiduPushClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/constants/BaiduPushConstants.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/constants/BaiduPushConstants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/exception/PushClientException.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/exception/PushClientException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/exception/PushServerException.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/exception/PushServerException.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/AddDevicesToTagRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/AddDevicesToTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/AddDevicesToTagResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/AddDevicesToTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/BindInfo.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/BindInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/CreateTagRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/CreateTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/CreateTagResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/CreateTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeleteDevicesFromTagRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeleteDevicesFromTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeleteDevicesFromTagResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeleteDevicesFromTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeleteTagRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeleteTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeleteTagResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeleteTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeviceInfo.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeviceInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeviceStatUnit.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/DeviceStatUnit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/KeyValueForAck.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/KeyValueForAck.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/KeyValueForDevice.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/KeyValueForDevice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/KeyValueForMsg.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/KeyValueForMsg.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/KeyValueForTopic.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/KeyValueForTopic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/MsgSendInfo.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/MsgSendInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/MsgStatInfo.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/MsgStatInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/MsgStatUnit.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/MsgStatUnit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushBatchUniMsgRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushBatchUniMsgRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushBatchUniMsgResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushBatchUniMsgResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToAllRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToAllRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToAllResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToAllResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToSingleDeviceRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToSingleDeviceRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToSingleDeviceResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToSingleDeviceResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToSmartTagRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToSmartTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToSmartTagResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToSmartTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToTagRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToTagResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushMsgToTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/PushResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryDeviceNumInTagRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryDeviceNumInTagRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryDeviceNumInTagResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryDeviceNumInTagResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryMsgStatusRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryMsgStatusRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryMsgStatusResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryMsgStatusResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticDeviceRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticDeviceRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticDeviceResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticDeviceResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticMsgRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticMsgRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticMsgResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticMsgResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticTopicRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticTopicRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticTopicResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryStatisticTopicResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTagsRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTagsRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTagsResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTagsResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTimerListRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTimerListRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTimerListResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTimerListResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTimerRecordsRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTimerRecordsRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTimerRecordsResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTimerRecordsResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTopicListRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTopicListRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTopicListResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTopicListResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTopicRecordsRequest.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTopicRecordsRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTopicRecordsResponse.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/QueryTopicRecordsResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/Record.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/Record.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/TagInfo.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/TagInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/TimerResultInfo.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/TimerResultInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/TopicResultInfo.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/TopicResultInfo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/TopicStatUnit.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/model/TopicStatUnit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/transform/PushRestRequestChecker.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/transform/PushRestRequestChecker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/transform/PushRestRequestMapper.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/transform/PushRestRequestMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/transform/PushRestResponseJsonUnmapper.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/transform/PushRestResponseJsonUnmapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/transform/utils/TransformUtilitiy.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/com/baidu/yun/push/transform/utils/TransformUtilitiy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/Connection.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/Connection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/ConnectionManager$ConnectActiveMonitor.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/ConnectionManager$ConnectActiveMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/ConnectionManager.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/ConnectionManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/Dao/AddDevicesToTag$1.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/Dao/AddDevicesToTag$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/Dao/AddDevicesToTag.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/Dao/AddDevicesToTag.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/Dao/AndroidPushMsgToSingleDevice$1.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/Dao/AndroidPushMsgToSingleDevice$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/Dao/AndroidPushMsgToSingleDevice.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/Dao/AndroidPushMsgToSingleDevice.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/Test.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/TestClient.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/TestClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/TestServer$SimpleProcessor.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/TestServer$SimpleProcessor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/testIdea3/test/TestServer.class" afterPath="$PROJECT_DIR$/out/production/testIdea3/test/TestServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testIdea3.iml" afterPath="$PROJECT_DIR$/testIdea3.iml" />
+    </list>
     <ignored path="testIdea3.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,79 +279,12 @@
     <favorites_list name="testIdea3" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConnectionManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/ConnectionManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Connection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Connection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1342#1343#0" expanded="true" />
-                <element signature="e#1367#1368#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6666667">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1453369431783" expanded="true" signature="5851:5872" placeholder="select * fro... Student" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testIdea3.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testIdea3.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/TestClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.43933055">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -109,13 +300,6 @@
       <projects_view />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/Connection.java" />
-      </list>
-    </option>
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -128,18 +312,11 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1419" />
-    <option name="y" value="21" />
-    <option name="width" value="1867" />
-    <option name="height" value="1059" />
+    <option name="x" value="24" />
+    <option name="y" value="4" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -166,8 +343,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,10 +352,6 @@
               <option name="myItemId" value="testIdea3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -219,46 +392,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testIdea3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testIdea3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testIdea3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testIdea3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,21 +411,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
   </component>
-  <component name="RunManager" selected="Tomcat Server.mytomcat">
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings />
@@ -308,65 +438,6 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -392,159 +463,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
-      <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -566,76 +484,12 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="testIdea3" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -666,55 +520,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="false" name="mytomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.30" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration default="false" name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.6" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="testIdea3:Web exploded">
@@ -725,7 +531,7 @@
       </deployment>
       <server-settings>
         <option name="AJP_PORT" value="1099" />
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_testIdea3_2" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_testIdea3" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -734,7 +540,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="54258" />
+        <option name="DEBUG_PORT" value="49230" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -788,55 +594,65 @@
       </method>
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.mytomcat" />
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4a1db3cb-a6db-47f3-b123-3e7287383574" name="Default" comment="" />
-      <created>1453431437573</created>
+      <changelist id="1cb88b9b-761d-4944-a54a-85bd7de0853f" name="Default" comment="" />
+      <created>1453640193447</created>
       <option name="number" value="Default" />
-      <updated>1453431437573</updated>
-      <workItem from="1453431438889" duration="169000" />
-      <workItem from="1453431634095" duration="1789000" />
+      <updated>1453640193447</updated>
+      <workItem from="1453640209233" duration="487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1958000" />
+    <option name="totallyTimeSpent" value="487000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1419" y="21" width="1867" height="1059" extended-state="6" />
-    <editor active="true" />
+    <frame x="24" y="4" width="1346" height="688" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48877373" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44444445" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -850,85 +666,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/ConnectionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1367#1368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/TestClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testIdea3.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1453369431783" expanded="true" signature="5851:5872" placeholder="select * fro... Student" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ConnectionManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Connection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1367#1368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6666667">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.43933055">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -952,7 +693,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Web (testIdea3)|Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -987,12 +728,22 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>testIdea3</last-edited>
+          <last-edited>Web|testIdea3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -1000,7 +751,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>ezmorph-1.0.6</last-edited>
+          <last-edited>lib1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
